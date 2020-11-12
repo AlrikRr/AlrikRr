@@ -31,7 +31,7 @@
 
 <h2 align="center"> :trophy: Github Trophies :trophy: </h2>
 <a href="https://AlrikRr.github.io">
- 
+
  <p align="center">
    <img styles="text-align:center" src="https://github-profile-trophy.vercel.app/?username=AlrikRr&column=7&theme=onedark"/>
  </p>
@@ -60,6 +60,22 @@
 </div>
 <!--
 <div align="center">
-	<img src="https://64.media.tumblr.com/bb409bcdb9b807e94933051c4a9c1ff3/tumblr_n0t7teqLIg1sg1fh4o1_500.gif" align="center" />
+	<img src="" align="center" />
 </div>
 -->
+<div>
+<BR>
+</div>
+
+
+<h2 align="center"> :coffee: Buy me a coffee :coffee: </h2>
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://64.media.tumblr.com/bb409bcdb9b807e94933051c4a9c1ff3/tumblr_n0t7teqLIg1sg1fh4o1_500.gif">
+
+ -  <h4><img src="assets/bitcoin.png" width="25px">3HN7oP8HMpnnHWp4o3KPrDNXTAapGxDNjh</h4>
+
+ -  <h4><img src="assets/eth.png" width="25px">0x5D39565Cf8315b433b40d4f3768fAB332594eF9B</h4>
+
+
+
+</BR></BR></BR>
