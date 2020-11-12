@@ -25,12 +25,11 @@
 </div>
 
 <div>
- 
-</BR></BR></BR></BR></BR></BR>
-
+<BR>
 </div>
 
-<h2 align="center"> :trophy: Github Trophy :trophy: </h2>
+
+<h2 align="center"> :trophy: Github Trophies :trophy: </h2>
 <a href="https://AlrikRr.github.io">
  
  <p align="center">
