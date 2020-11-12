@@ -59,3 +59,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://www.hak5.org/wp-content/uploads/2014/12/usb-rubber-ducky-symbol-black-background1.png" alt="RubberDucky" height="50" />
 </div>
+<!--
+<div align="center">
+	<img src="https://64.media.tumblr.com/bb409bcdb9b807e94933051c4a9c1ff3/tumblr_n0t7teqLIg1sg1fh4o1_500.gif" align="center" />
+</div>
+-->
