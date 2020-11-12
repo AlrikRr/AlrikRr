@@ -75,7 +75,7 @@
  -  <h4><img src="assets/bitcoin.png" width="25px">3HN7oP8HMpnnHWp4o3KPrDNXTAapGxDNjh</h4>
 
  -  <h4><img src="assets/eth.png" width="25px">0x5D39565Cf8315b433b40d4f3768fAB332594eF9B</h4>
-
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"align="center"/> 
 
 
 </BR></BR></BR>
