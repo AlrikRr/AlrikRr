@@ -32,14 +32,6 @@
 <BR>
 </div>
 
-
-<h2 align="center"> :trophy: Github Trophies :trophy: </h2>
-<a href="https://AlrikRr.github.io">
-
- <p align="center">
-   <img styles="text-align:center" src="https://github-profile-trophy.vercel.app/?username=AlrikRr&column=7&theme=onedark"/>
- </p>
-</a>
 <!-- Skills -->
 
 <div align="center" >
