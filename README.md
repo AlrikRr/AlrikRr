@@ -18,12 +18,6 @@
 
 <!-- Stat -->
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AlrikRr&show_icons=true&theme=synthwave" />
-
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlrikRr&layout=compact" />
-</div>
-
 <div align="center">
 <img align="center" src="http://www.hackthebox.eu/badge/image/129987" alt="Hack The Box">
 </div>
