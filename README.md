@@ -6,7 +6,7 @@
 <h1 align="center">:boom: AlrikRr :boom:</h1>
 
 <div align="center">
- <h4  align="center"> :open_file_folder: AlrikRr | :computer: Ethical Hacker | :coffee: Developer | :penguin: Linux | :bread: Paris, France </h4>
+ <h4  align="center"> :open_file_folder: AlrikRr | :computer: Ethical Hacker | :coffee: Developer | :penguin: Linux | :bread: Montréal QC, Canada </h4>
 </div>
 
 </BR>
@@ -19,7 +19,7 @@
 <!-- Stat -->
 
 <div align="center">
-<img align="center" src="http://www.hackthebox.eu/badge/image/129987" alt="Hack The Box">
+ <img src="http://www.hackthebox.eu/badge/image/129987" alt="Hack The Box"> 
 </div>
 
 <div>
