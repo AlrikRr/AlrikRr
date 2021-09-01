@@ -26,7 +26,7 @@
 <BR>
 </div>
 <div align="center">
- <img src="https://tryhackme.com/p/AlrikRr" alt="TryHackMe">
+	<a href="https://tryhackme.com/p/AlrikRr">TryHackMe</a>
 </div>
 
 </BR></BR></BR>
