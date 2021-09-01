@@ -26,7 +26,7 @@
 <BR>
 </div>
 <div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/AlrikRr.png" alt="TryHackMe">
+ <img src="https://tryhackme.com/p/AlrikRr" alt="TryHackMe">
 </div>
 
 </BR></BR></BR>
