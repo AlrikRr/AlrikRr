@@ -11,7 +11,7 @@
 
 ## I'm an Ethical Hacker, Musician & Pentester!!
 
-- 🔭 My website is still under construction!
+- 🔭 My website is finish !
 - 🌱 Started OSCP course ! Wish me luck!
 - 👯 Do not hesitate to collaborate on my projects!
 - ⚡ Fun fact: I love to draw and play guitar / piano /  Trumpet !
