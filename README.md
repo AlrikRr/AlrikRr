@@ -35,10 +35,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />  
 </div>  
 <BR>
-	
-### Stats !
-![Alrikrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=alrikrr&show_icons=true&theme=radical)
-
 
 
 [website]: https://alrikrr.com
