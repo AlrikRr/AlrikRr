@@ -9,13 +9,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-## I'm an Ethical Hacker, Musician & Pentester!!
+## I'm a Pentester
 
-- 🔭 My website is finish !
-- 🌱 Started OSCP course ! Wish me luck!
-- 👯 Do not hesitate to collaborate on my projects!
-- ⚡ Fun fact: I love to draw and play guitar / piano /  Trumpet !
-
+- 🔭 Take a look at my latests post on my web site !
+- 👯 Do not hesitate to collaborate on my projects !  
+- ⚡ Let's get in touch and talk about cyber security !
 	
 ### Language & Tools !
 <div align="left">  
@@ -36,6 +34,9 @@
 </div>  
 <BR>
 
+### Certifications
+
+<img src="https://elearnsecurity.com/wp-content/uploads/eJPT-200x149.png" alt="eJPT" height="35">
 
 [website]: https://alrikrr.com
 [twitter]: https://twitter.com/alrikrr
