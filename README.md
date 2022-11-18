@@ -41,3 +41,5 @@
 [website]: https://alrikrr.com
 [twitter]: https://twitter.com/alrikrr
 [linkedin]: https://linkedin.com/in/adrien-lasalle
+
+<a rel="me" href="https://infosec.exchange/@AlrikRr">Mastodon</a>
