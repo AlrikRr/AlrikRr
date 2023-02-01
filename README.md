@@ -35,8 +35,10 @@
 <BR>
 
 ### Certifications
-
+<div align="left">
 <img src="https://elearnsecurity.com/wp-content/uploads/eJPT-200x149.png" alt="eJPT" height="35">
+<img src="https://templates.images.credential.net/16473224202129240198495527164557.png" alt="CRTS" height="40">
+</div>
 
 [website]: https://alrikrr.com
 [twitter]: https://twitter.com/alrikrr
