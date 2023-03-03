@@ -40,7 +40,7 @@
 <img src="https://templates.images.credential.net/16473224202129240198495527164557.png" alt="CRTS" height="40">
 </div>
 
-[website]: https://alrikrr.com
+[website]: https://alrikrr.github.io/
 [twitter]: https://twitter.com/alrikrr
 [linkedin]: https://linkedin.com/in/adrien-lasalle
 
