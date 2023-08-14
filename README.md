@@ -1,4 +1,4 @@
-# Hello there, I'm Adrien - aka [AlrikRr][website] 🇫🇷 🇨🇦
+# Hello there, I'm Adrien - aka AlrikRr 🇫🇷 🇨🇦
 🔭 I’m currently working on Discord Bots <br>🌱 I’m currently learning Malware Analysis and DFIR<br>☕️ Let's talk around a virtual coffee<br>⚡ I'm currently playing on PS5
 
 
