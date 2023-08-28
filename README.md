@@ -14,11 +14,6 @@
 <img src="https://certifications.tcm-sec.com/wp-content/uploads/2021/09/pnpt-new.png" alt="PNPT" height="50">
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlrikRr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlrikRr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlrikRr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlrikRr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
