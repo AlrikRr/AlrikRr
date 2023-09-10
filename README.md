@@ -14,10 +14,7 @@
 <img src="https://certifications.tcm-sec.com/wp-content/uploads/2021/09/pnpt-new.png" alt="PNPT" height="50">
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlrikRr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
