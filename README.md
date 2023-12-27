@@ -14,9 +14,6 @@
 <img src="https://certifications.tcm-sec.com/wp-content/uploads/2021/09/pnpt-new.png" alt="PNPT" height="50">
 </div>
 
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AlrikRr&icon=6&color=4)](https://visitcount.itsvg.in)
 
