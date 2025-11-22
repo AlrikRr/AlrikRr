@@ -17,7 +17,16 @@ I'm open to partnerships and new opportunities, so feel free to reach out to cha
 
 <a rel="me" href="https://infosec.exchange/@AlrikRr"></a>
 
-<h3>🏆 Conference Participation</h3> <ul> <li>🎤 <strong>Wild West Hackin'Fest - Deadwood 2025</strong> - Speaker</li> <li>🎤 <strong>Bsides Kraków 2025</strong> - Speaker</li> <li>🎤🧙‍♂️ <strong>NorthSec 2025</strong> - Keynote Speaker / Volunteer</li> <li>🎤 <strong>InCyber North America 2024</strong> - Speaker</li> <li>🎤 <strong>BSides Montréal 2024</strong> - Speaker</li> <li>🎤 <strong>BSides Warsaw 2024</strong> - Speaker</li> <li>🎤🧙‍♂️ <strong>NorthSec 2024</strong> - Speaker / Volunteer</li> <li>🎤 <strong>InCyber North America 2023</strong> - Speaker</li> </ul>
+<h3>🏆 Conference Participation</h3> <ul>  
+  <li>🎤 <strong>Bsides københavn 2025</strong> - Speaker</li> 
+  <li>🎤 <strong>Wild West Hackin'Fest - Deadwood 2025</strong> - Speaker x2</li> 
+  <li>🎤 <strong>Bsides Kraków 2025</strong> - Speaker</li> 
+  <li>🎤🧙‍♂️ <strong>NorthSec 2025</strong> - Keynote Speaker / Volunteer</li> 
+  <li>🎤 <strong>InCyber North America 2024</strong> - Speaker</li> 
+  <li>🎤 <strong>BSides Montréal 2024</strong> - Speaker</li> 
+  <li>🎤 <strong>BSides Warsaw 2024</strong> - Speaker</li> 
+  <li>🎤🧙‍♂️ <strong>NorthSec 2024</strong> - Speaker / Volunteer</li> 
+  <li>🎤 <strong>InCyber North America 2023</strong> - Speaker</li> </ul>
 
 ## 📫 How to Reach Me
 
